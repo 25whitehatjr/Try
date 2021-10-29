@@ -1,0 +1,14 @@
+body{
+    color: white;
+    background: darksalmon
+}
+
+.name_of_objects{
+    color: lightgoldenrodyellow
+}
+
+#camera{
+    border: 2px dashed black ;
+    width: 350 ;
+    height: 350 ;
+}
